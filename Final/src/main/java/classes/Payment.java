@@ -1,6 +1,5 @@
 package main.java.classes;
 
-import javax.smartcardio.Card;
 
 public class Payment{
     //attributes (members)
