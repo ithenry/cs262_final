@@ -1,4 +1,4 @@
-packaage main.java.classes;
+package main.java.classes;
 
 public class LineItem{
 
